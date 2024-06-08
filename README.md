@@ -1,34 +1,34 @@
-# README
+<!--# README-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!--This README would normally document whatever steps are necessary to get the-->
+<!--application up and running.-->
 
-Things you may want to cover:
+<!--Things you may want to cover:-->
 
-* Ruby version
+<!--* Ruby version-->
 
-* System dependencies
+<!--* System dependencies-->
 
-* Configuration
+<!--* Configuration-->
 
-* Database creation
+<!--* Database creation-->
 
-* Database initialization
+<!--* Database initialization-->
 
-* How to run the test suite
+<!--* How to run the test suite-->
 
-* Services (job queues, cache servers, search engines, etc.)
+<!--* Services (job queues, cache servers, search engines, etc.)-->
 
-* Deployment instructions
+<!--* Deployment instructions-->
 
-* ...
+<!--* ...-->
 
 # <!--PETTER-->
 <!--​READMEを作成する際は、項目内の【補足説明】は削除して完成させてください。-->
 ## サイト概要
--ペットの写真をアップするサイト
--ペット参加型のイベントの紹介
--日常で出会った動物の写真を投稿することも可能（住所をリンクさせて口コミ的な要素を持たせる）
+* ペットの写真をアップするサイト
+* ペット参加型のイベントの紹介
+* 日常で出会った動物の写真を投稿することも可能（住所をリンクさせて口コミ的な要素を持たせる）
 
 ### サイトテーマ
 ペット好きの方が繋がれるSNS
@@ -36,9 +36,9 @@ Things you may want to cover:
 <!-- - 〜なコミュニティサイトorレビューサイトorSNS　と１文で記載する --> 
 ​
 ### テーマを選んだ理由
-昨今、ペット愛が強い飼い主さんが増えてきており、写真から繋がりのきっかけになればと考えました。
+昨今、ペット愛が強い飼い主さんが増えてきており、写真から繋がりのきっかけになればと考えました。  
 飼い主さんの中にはペット同伴で行動したい方も多いかと思います。ペット同伴可能なレストラン等が増えて来てはいるが決して多くない中で、
-飼い主さん同士でペットOKの店の情報共有をSNSを通してできればペット市場の経済も回り、飼い主の満足度も上がることでしょう。
+飼い主さん同士でペットOKの店の情報共有をSNSを通してできればペット市場の経済も回り、飼い主の満足度も上がることでしょう。  
 また、動物の種類や品種ごとに閲覧可能にすることで、今後ペットの購入を検討している方の参考になるコンテンツを作ろうを思いました。
 
 <!-- 【補足説明】 -->
@@ -57,21 +57,21 @@ Things you may want to cover:
 <!-- また料理好きな人だけでなく、日々料理を作る必要があるがレシピに困っている人の助けにもなると考え、このテーマにしました。 -->
 ​
 ### ターゲットユーザ
-ペットを飼っている方
-ペットを飼いたい、飼う予定はないが動物が好きな方
-ペット同伴型イベント運営業者
-日常で出会った動物をSNSにアップしたい方
-動物が好きな方
+* ペットを飼っている方
+* ペットを飼いたい、飼う予定はないが動物が好きな方
+* ペット同伴型イベント運営業者
+* 日常で出会った動物をSNSにアップしたい方
+* 動物が好きな方
 <!-- 【補足説明】 -->
 <!-- - 〜な人という記載方法で、2つ以上記載しましょう -->
 <!-- - テーマ理由と矛盾のないターゲットを選出しましょう -->
 <!-- - 実際にサービスを利用する立場であると想定しましょう  -->
 ​
 ### 主な利用シーン
-動物の写真を共有したいとき
-動物の写真を見たいとき
-ペット同伴のイベントに参加したいとき
-ペットと行ける店を検索したいとき
+* 動物の写真を共有したいとき
+* 動物の写真を見たいとき
+* ペット同伴のイベントに参加したいとき
+* ペットと行ける店を検索したいとき
 <!-- 【補足説明】 -->
 <!-- - 〜な時という記載方法で、2つ以上記載しましょう -->
 ​
